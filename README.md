@@ -19,7 +19,7 @@ This dataset contains over 200+ conversational dialogues.
 cd /some/dir
 git clone https://github.com/advaithsrao/Chatbot_Seq2seq_model.git
 ```
-#### Pull tensorflow-1.15-gpu image from https://hub.docker.com/r/tensorflow/tensorflow/tags?page=8&ordering=last_updated
+#### Use tensorflow-1.0-0 image
 
 ```bash 
 docker pull tensorflow/tensorflow:1.0.0 
